@@ -1,12 +1,4 @@
 
-# coding: utf-8
-"""
-Created on Sun Jul 30 12:32:59 2017
-
-@author: DIP
-@Copyright: Dipanjan Sarkar
-"""
-
 # # Import necessary dependencies
 import spacy
 import nltk
